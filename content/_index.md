@@ -1,6 +1,6 @@
 ---
-title: 🪴 Quartz 3.3
+title: Tomas' Website
 enableToc: false
 ---
 
-# Test tomas index
+An empty website for now...
